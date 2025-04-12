@@ -61,9 +61,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
 * [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
 * [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
-* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
-* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
 * [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
+* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
