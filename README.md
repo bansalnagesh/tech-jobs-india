@@ -6,25 +6,21 @@ A curated list of the best tech jobs across India, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-16*
+*Updated on 2025-04-19*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| PhonePe | Software Engineer (Backend, 5-8 Years) - Financial Services | 📍 Bengaluru, Karnataka, India | Apr 16 | [Apply](https://starjobs.dev/jobs/4a7763f65dbd4e4a8e51d34f4064a620?utm=github) |
-| Wipro | Python Developer | 📍 Bengaluru, Karnataka, India | Apr 16 | [Apply](https://starjobs.dev/jobs/213cdbfa2ea54a7e97c26c385967716f?utm=github) |
-| Ascendeum | Decision Scientist | 📍 India | Apr 16 | [Apply](https://starjobs.dev/jobs/91395b0ee2854a1799779acc747f2b14?utm=github) |
-| Donyati | AI Application Engineer | 📍 India | Apr 16 | [Apply](https://starjobs.dev/jobs/a4bd0a8e75194324ae86a61743432f99?utm=github) |
-| Ascendeum | Data Scientist | 📍 India | Apr 16 | [Apply](https://starjobs.dev/jobs/5330d45e9e6d4394bbd953bc9150648b?utm=github) |
-| Motive | Data Platform Engineer | 📍 India | Apr 16 | [Apply](https://starjobs.dev/jobs/8a4bcccfe3734b4ea330c25a0d9b267e?utm=github) |
-| Flipkart | Software Development Engineer II (SDE 2) | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/8b625cfbb0f345ac80279209be6b5d7d?utm=github) |
-| RingCentral | Stock Analyst | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/ece444519df0407ca0f51928bf5696ad?utm=github) |
-| IQVIA | Business Analyst | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/0f6e46beccb3408ab72e084ab4df990c?utm=github) |
-| JEF GROUP | Electrical Design Engineer | 📍 Bagalur, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/e48fe85d6d054b01b4f620ef4600609a?utm=github) |
-| Wipro | Quality Assurance Tester | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/f880d152f7be4d2a9fe06cb675598f7b?utm=github) |
-| VXI Global Solutions | Data Engineer | 📍 India | Apr 15 | [Apply](https://starjobs.dev/jobs/4b32609fca5449b9a27af6dae75593bc?utm=github) |
-| Talentmatics | Data Scientist | 📍 Pune, Maharashtra, India | Apr 15 | [Apply](https://starjobs.dev/jobs/32e05ebb457c48a2af7408a8cc43dcba?utm=github) |
-| ITC Infotech | Site Reliability Engineer | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/8a76a03313da41679406c92a253f8b12?utm=github) |
-| Zensar Technologies | Full Stack Engineer | 📍 India | Apr 15 | [Apply](https://starjobs.dev/jobs/0ed82fd1f30043318c54c668ff0a8924?utm=github) |
+| PriceLabs | Software Engineer - Python (Remote) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/06f271b7b0194e6aba16f9cf24836608?utm=github) |
+| Evertreen | Web Developer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/21069310be0a42c69691e520e0b68b63?utm=github) |
+| Deel | Payroll Implementation Consultant \| India | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/c9d77b1c177e4483aaad1d3545fd87d8?utm=github) |
+| Greenlight | Senior Product Manager | 📍 Bengaluru, Karnataka, India | Apr 16 | [Apply](https://starjobs.dev/jobs/80adc9fd6bc34950be88920d1e10a1b0?utm=github) |
+| Deel | Implementation Business Analyst  | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/c2e59e9c14014e0eabad8062ba7997a6?utm=github) |
+| Circles | Senior Associate, Product Strategy | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/70a8752b1797476d97af445e4d8b90bf?utm=github) |
+| Flipkart | Software Development Engineer III | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/3b923b0f9dd44ecab53e6bfbd15f5e66?utm=github) |
+| Crossover | Full-stack Developer, Trilogy (Remote) - $60,000/year USD | 📍 Greater Kolkata Area | Apr 15 | [Apply](https://starjobs.dev/jobs/624423855d8547c3964170625a0a7158?utm=github) |
+| Crossover | Full Stack Developer, Trilogy (Remote) - $60,000/year USD | 📍 Nanjangud, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/e938a2bd125e4c498fdb69135f9120d8?utm=github) |
+| Atlan | Analytics Engineer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/94e6de0a90e94cb88e3300669d597f7e?utm=github) |
+| Deel | Payroll Specialist | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/c696f598e106408eb36269f4f4db0ee7?utm=github) |
 
 
 ## About This List
@@ -37,9 +33,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
+* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
+* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
 * [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
-* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
-* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
 * [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
-* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
