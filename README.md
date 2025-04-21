@@ -6,21 +6,25 @@ A curated list of the best tech jobs across India, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-19*
+*Updated on 2025-04-21*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| PriceLabs | Software Engineer - Python (Remote) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/06f271b7b0194e6aba16f9cf24836608?utm=github) |
-| Evertreen | Web Developer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/21069310be0a42c69691e520e0b68b63?utm=github) |
-| Deel | Payroll Implementation Consultant \| India | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/c9d77b1c177e4483aaad1d3545fd87d8?utm=github) |
-| Greenlight | Senior Product Manager | 📍 Bengaluru, Karnataka, India | Apr 16 | [Apply](https://starjobs.dev/jobs/80adc9fd6bc34950be88920d1e10a1b0?utm=github) |
-| Deel | Implementation Business Analyst  | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/c2e59e9c14014e0eabad8062ba7997a6?utm=github) |
-| Circles | Senior Associate, Product Strategy | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/70a8752b1797476d97af445e4d8b90bf?utm=github) |
-| Flipkart | Software Development Engineer III | 📍 Bengaluru, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/3b923b0f9dd44ecab53e6bfbd15f5e66?utm=github) |
-| Crossover | Full-stack Developer, Trilogy (Remote) - $60,000/year USD | 📍 Greater Kolkata Area | Apr 15 | [Apply](https://starjobs.dev/jobs/624423855d8547c3964170625a0a7158?utm=github) |
-| Crossover | Full Stack Developer, Trilogy (Remote) - $60,000/year USD | 📍 Nanjangud, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/e938a2bd125e4c498fdb69135f9120d8?utm=github) |
-| Atlan | Analytics Engineer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/94e6de0a90e94cb88e3300669d597f7e?utm=github) |
-| Deel | Payroll Specialist | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/c696f598e106408eb36269f4f4db0ee7?utm=github) |
+| Better | Senior Analyst - Servicing | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/e2e7ab9c0f0945e2a98fb9ed9aef47a5?utm=github) |
+| Cambium Networks | Financial Analyst | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/1db50e9e686c41ecb2617844083a3b00?utm=github) |
+| MNC | Senior Analyst | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/5f57114a92894939add2957263c8b5ac?utm=github) |
+| Workiy Inc. | Data Analyst | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/064d6833ef5c4af6945c3e824e18303e?utm=github) |
+| MSI | Business Intelligence Analyst | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/2c4e0c2213a0495788617ead77dc8f77?utm=github) |
+| MSI Services Pvt Ltd | Business Analyst | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/ae9e65fe97f54eff9239bb024102c04c?utm=github) |
+| Visa | SW Engineer (Java Backend, 2023-24 pass out) | 📍 Bengaluru East, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/b7350ddde45f4d8495619f3dc30439aa?utm=github) |
+| TIMAB Magnesium | India Business Development Manager - Refractory Applications F/M | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/b0c55ef98b8a46fbb253cfe0203773cb?utm=github) |
+| Infosys | Dotnet Developer | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/8954ca07fded4fb1974fdd75e3ca3709?utm=github) |
+| Metyis | SFCC Frontend Developer | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/45f22034c14c4946b7b21e922ba8c28e?utm=github) |
+| H&M | Product Developer-Accessories (Jewellery) | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/4e94648755c84bf1a735819bd6c5bb30?utm=github) |
+| G2i Inc. | FrontEnd Software Engineer for Training AI Data | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/b6dcd2f27a8f4c69b034026dcab6741a?utm=github) |
+| Abacus.AI | Software Engineer in Test | 📍 India | Apr 20 | [Apply](https://starjobs.dev/jobs/375db4be5ac54cac85ec17d1e0dfd52a?utm=github) |
+| Bajaj Finserv | Area Manager - Payments - Retail EMI Card | 📍 Bengaluru, Karnataka, India | Apr 20 | [Apply](https://starjobs.dev/jobs/15f07131acd441208e3f0e69d52bb87e?utm=github) |
+| Virtusa | Fullstack Developer (MERN Stack) | 📍 Bangalore Urban, Karnataka, India | Apr 19 | [Apply](https://starjobs.dev/jobs/64c7b51dc52040ef840388f07a8cd5ab?utm=github) |
 
 
 ## About This List
@@ -33,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
 * [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
 * [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
 * [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
-* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
-* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
